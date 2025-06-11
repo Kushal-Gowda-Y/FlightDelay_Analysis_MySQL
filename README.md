@@ -1,2 +1,2 @@
 # FlightDelay_Analysis_MySQL
-An interactive Excel-based dashboard analyzing flight delays across cities, states, weeks, and airlines using over 1 million records. Includes dynamic visuals for delay patterns, cancellations, and airline performance insights.
+This project analyzes flight delay data using MySQL for data cleaning, transformation, and querying. Key insights were derived from over 1 million records to identify delay patterns by city, state, airline, and time period.
